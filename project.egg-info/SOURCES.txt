@@ -1,0 +1,14 @@
+setup.py
+cinii_crawl/__init__.py
+cinii_crawl/items.py
+cinii_crawl/middlewares.py
+cinii_crawl/pipelines.py
+cinii_crawl/settings.py
+cinii_crawl/sugukesu.py
+cinii_crawl/spiders/__init__.py
+cinii_crawl/spiders/run.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
